@@ -1,3 +1,9 @@
+# revision 21977
+# category Package
+# catalog-ctan /macros/latex/contrib/beamer-contrib/themes/beamerthemeJLTree.sty
+# catalog-date 2010-07-13 19:58:19 +0200
+# catalog-license gpl
+# catalog-version 1.1
 Name:		texlive-beamerthemejltree
 Version:	1.1
 Release:	1
@@ -33,6 +39,7 @@ A theme for beamer presentations.
 #-----------------------------------------------------------------------
 %files
 %{_texmfdistdir}/tex/latex/beamerthemejltree/beamerthemeJLTree.sty
+%doc %{_tlpkgobjdir}/*.tlpobj
 
 #-----------------------------------------------------------------------
 %prep
@@ -43,3 +50,5 @@ A theme for beamer presentations.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex %{buildroot}%{_texmfdistdir}
+mkdir -p %{buildroot}%{_tlpkgobjdir}
+cp -fpa tlpkg/tlpobj/*.tlpobj %{buildroot}%{_tlpkgobjdir}
