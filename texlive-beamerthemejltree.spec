@@ -6,7 +6,7 @@
 # catalog-version 1.1
 Name:		texlive-beamerthemejltree
 Version:	1.1
-Release:	7
+Release:	8
 Summary:	Contributed beamer theme
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/beamer-contrib/themes/beamerthemeJLTree.sty
