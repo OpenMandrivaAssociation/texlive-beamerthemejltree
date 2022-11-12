@@ -5,7 +5,7 @@ Summary:	Contributed beamer theme
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/beamer-contrib/themes/beamerthemeJLTree.sty
 License:	GPL
-Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/beamerthemejltree.r21977.tar.xz
+Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/beamerthemejltree.r%{version}.tar.xz
 BuildArch:	noarch
 BuildRequires:	texlive-tlpkg
 Requires(pre):	texlive-tlpkg
