@@ -1,6 +1,6 @@
 Name:		texlive-beamerthemejltree
 Version:	21977
-Release:	1
+Release:	2
 Summary:	Contributed beamer theme
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/beamer-contrib/themes/beamerthemeJLTree.sty
