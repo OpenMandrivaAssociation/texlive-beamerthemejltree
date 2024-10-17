@@ -3,7 +3,7 @@ Version:	21977
 Release:	2
 Summary:	Contributed beamer theme
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/beamer-contrib/themes/beamerthemeJLTree.sty
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/beamer-contrib/themes/beamerthemeJLTree.sty
 License:	GPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/beamerthemejltree.r%{version}.tar.xz
 BuildArch:	noarch
